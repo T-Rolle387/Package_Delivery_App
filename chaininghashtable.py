@@ -1,4 +1,3 @@
-# Tiffany Rolle ID:001421218
 
 import csv
 from package import Package
