@@ -1,4 +1,4 @@
-# Tiffany Rolle ID: 001421218
+
 import datetime
 import math
 
