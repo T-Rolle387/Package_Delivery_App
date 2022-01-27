@@ -1,5 +1,3 @@
-# Tiffany Rolle ID:001421218
-
 
 # The Package Class is used to generate package objects.
 # Package objects store pertinent package data/attributes
