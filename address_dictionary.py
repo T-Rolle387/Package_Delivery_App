@@ -1,4 +1,3 @@
-# Tiffany Rolle ID:001421218
 
 
 # This is a dictionary used to map the address(key) to the numeric value used in obtaining distance_data.
