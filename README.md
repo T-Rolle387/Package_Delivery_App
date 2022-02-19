@@ -1,5 +1,5 @@
 # Package_Delivery_App
-A solution to a modified Traveling Salesman Problem in which a truck must delivery packages in an optimized manner while still meeting various constraints(package delays, changed addresses, etc.)
+A solution to a modified Traveling Salesman Problem in which a truck must delivery packages in an optimized manner while still meeting various constraints (package delays, changed addresses, etc.)
 
 I chose to implement a Nearest Neighbor Greedy algorithm due to it's simplicity and the scale of the project(A delivery route with 40 regular stops in the same city).
 
