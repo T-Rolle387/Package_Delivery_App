@@ -23,10 +23,7 @@ Screenshots of package delivery status at various times throughout the day with 
 
 ![G3_updated](https://user-images.githubusercontent.com/79055002/155603392-99801905-d788-4f72-9079-24c3d35f6b8c.png)
 
-One of the constraints of this project was that the total mileage for all trucks come in under 140 miles. Below is a screenshot of the total mileage for all trucks:
-
-![H_Screen1](https://user-images.githubusercontent.com/79055002/155603727-5686a81b-3692-47c8-af2a-232c6e03bda2.png)
-
-Another unique project constraint was that each truck should carry no more than 16 packages: Highlighted in the image below is the load size for each truck.
+One of the constraints of this project was that the total mileage for all trucks come in under 140 miles. 
+Another unique project constraint was that each truck should carry no more than 16 packages: Highlighted in the image below is the load size for each truck along with the total truck mileage.
 
 ![H_Screen2](https://user-images.githubusercontent.com/79055002/155603895-a47fb779-ce2e-4a57-9745-1588da2b8acf.png)
