@@ -5,6 +5,7 @@ I chose to implement a Nearest Neighbor Greedy algorithm due to it's simplicity 
 
 This program was built using Python 3.9.6 in the PyCharm Community Edition 2021.2.3 IDE on a Windows 10 64-bit local machine.
 
+
 Package description:
 
 •	main – calls the delivery simulation and contains all code relating to the CLI
@@ -18,6 +19,7 @@ Package description:
 •	truck – contains the truck class and method for loading trucks based on package priority
 
 •	package – contains the package class used for instantiating package objects
+
 
 Screenshots of package delivery status at various times throughout the day with times highlighted in yellow:
 
