@@ -13,7 +13,7 @@ Package description:
 •	truck – contains the truck class and method for loading trucks based on package priority
 •	package – contains the package class used for instantiating package objects
 
-Screenshots of package delivery status at various times throughout the day:
+Screenshots of package delivery status at various times throughout the day with times highlighted in yellow:
 
 ![G1_updated](https://user-images.githubusercontent.com/79055002/155603340-a5d241e1-4634-4965-a188-084553f69c00.png)
 
